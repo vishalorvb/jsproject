@@ -1,0 +1,6 @@
+Navigate to server
+	npm install
+	npm run server
+Navigate to app
+	npm install 
+	npm run dev
